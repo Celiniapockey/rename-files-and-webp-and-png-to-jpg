@@ -11,8 +11,9 @@ First, the `rename.py` will rename all files except `.py`, you should make sure 
 Second, the `rename.py` will delete the `SPACE` in the name,be sure that you don't want `SPACE` in the name.
 
 ## How to run
+Running them in terminal:
 
-Install the Pillow of python:
+1 Install the Pillow of python:
 
 `pip install Pillow`
 
